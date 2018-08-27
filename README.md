@@ -26,7 +26,7 @@ However, LineScript does not support embedded style sheets or scripts. All CSS o
 
 ## Usage
 
-See DOCS.md.
+[See DOCS.md](DOCS.md)
 
 ## Contributing
 
